@@ -1,0 +1,3 @@
+This is what i love about unix, vi editor.
+
+by the way this is the first file for checkin into GIT
