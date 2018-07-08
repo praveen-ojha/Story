@@ -2,4 +2,4 @@ This is what i love about unix, vi editor.
 
 by the way this is the first file for checkin into GIT
 
-It was the best of times, gone were the worst of times!
+It was the best of space, gone were the worst of space!
